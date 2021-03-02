@@ -2974,6 +2974,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.RollBackDate__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.SAP_Account__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -13639,6 +13644,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ManageRoles</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ManageSandboxes</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
