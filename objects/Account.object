@@ -306,6 +306,14 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>RollBackDate__c</fullName>
+        <externalId>false</externalId>
+        <label>RollBackDate</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Date</type>
+    </fields>
+    <fields>
         <fullName>SAP_Account__c</fullName>
         <caseSensitive>false</caseSensitive>
         <externalId>true</externalId>
