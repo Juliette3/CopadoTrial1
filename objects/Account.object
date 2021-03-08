@@ -341,6 +341,15 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Test_Git_Snap__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Field to test git snapshot</description>
+        <externalId>false</externalId>
+        <label>Test_Git_Snap</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>TickerSymbol</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
