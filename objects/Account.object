@@ -306,6 +306,14 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>RollBackDate__c</fullName>
+        <externalId>false</externalId>
+        <label>RollBackDate</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Date</type>
+    </fields>
+    <fields>
         <fullName>SAP_Account__c</fullName>
         <caseSensitive>false</caseSensitive>
         <externalId>true</externalId>
@@ -331,6 +339,15 @@
     <fields>
         <fullName>Site</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
+        <fullName>Test_Git_Snap__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Field to test git snapshot</description>
+        <externalId>false</externalId>
+        <label>Test_Git_Snap</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
     </fields>
     <fields>
         <fullName>TickerSymbol</fullName>
