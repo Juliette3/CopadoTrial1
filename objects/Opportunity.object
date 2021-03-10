@@ -229,6 +229,16 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Test_J__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>testing fiel for use case</description>
+        <externalId>false</externalId>
+        <label>Test_J</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>TotalOpportunityQuantity</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackTrending>false</trackTrending>
