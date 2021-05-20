@@ -37,6 +37,10 @@
                 <behavior>Edit</behavior>
                 <field>RollBackDate__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Example__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
