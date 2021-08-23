@@ -17,21 +17,12 @@
                 <behavior>Edit</behavior>
                 <field>OwnerId</field>
             </layoutItems>
-        </layoutColumns>
-        <style>TwoColumnsTopToBottom</style>
-    </layoutSections>
-    <layoutSections>
-        <customLabel>true</customLabel>
-        <detailHeading>true</detailHeading>
-        <editHeading>true</editHeading>
-        <label>New Section</label>
-        <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Dev1_Field__c</field>
+                <field>Dev2_Field__c</field>
             </layoutItems>
         </layoutColumns>
-        <style>OneColumn</style>
+        <style>TwoColumnsTopToBottom</style>
     </layoutSections>
     <layoutSections>
         <customLabel>false</customLabel>
@@ -68,7 +59,7 @@
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
     <summaryLayout>
-        <masterLabel>00h3O000000nMy7</masterLabel>
+        <masterLabel>00h3O000000nN2Y</masterLabel>
         <sizeX>4</sizeX>
         <sizeY>0</sizeY>
         <summaryLayoutStyle>Default</summaryLayoutStyle>

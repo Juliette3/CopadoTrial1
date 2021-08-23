@@ -5084,6 +5084,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Speaker__c.Dev2_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Store__c.Location__c</field>
         <readable>true</readable>
     </fieldPermissions>
