@@ -5084,6 +5084,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Speaker2__c.Dev1_Field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Speaker__c.Dev1_Field__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -10272,6 +10277,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Solution-Solution Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Speaker2__c-Speaker2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Speaker__c-Speaker Layout</layout>
