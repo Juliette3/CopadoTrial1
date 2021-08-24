@@ -4069,6 +4069,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Food__c.Specialties__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Housing__c.Door__c</field>
         <readable>true</readable>
     </fieldPermissions>
