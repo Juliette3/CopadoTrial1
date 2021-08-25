@@ -118,6 +118,13 @@
         <fullName>Description</fullName>
     </fields>
     <fields>
+        <fullName>Dev1_Field__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Dev1 Field</label>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>Discount</fullName>
     </fields>
     <fields>
