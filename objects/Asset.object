@@ -130,6 +130,14 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>Dev1_Field__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Dev1 Field</label>
+        <trackHistory>false</trackHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>DigitalAssetStatus</fullName>
         <trackHistory>false</trackHistory>
         <type>Picklist</type>
